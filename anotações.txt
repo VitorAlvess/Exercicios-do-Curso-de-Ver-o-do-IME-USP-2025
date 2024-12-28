@@ -1,0 +1,3 @@
+Primeiro momento para instalação do C
+    - Tem que instlar MinGW (meio que o compilar que vai fazer rodar o C)
+    - nos slides está usando o notepad++
